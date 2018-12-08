@@ -8,7 +8,6 @@ def ocultar(elemento):
     elemento.withdraw()
 
 
-
 mainTk=Tk()
 mainTk.geometry('400x400')
 mainTk.config(bg='green')
