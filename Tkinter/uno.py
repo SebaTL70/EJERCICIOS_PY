@@ -22,7 +22,6 @@ secundariaWin=Toplevel(mainWin) #esta es la ventana hija que se abre sin ningun 
 
 
 
-
 boton1=Button(mainWin,text='Abrir la ventana hija',command=lambda:ejecutar(funcionMostrar(secundariaWin)))#declaro un Button en mainWin
 
 #boton1.pack() #muestra el button con pack
